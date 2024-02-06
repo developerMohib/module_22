@@ -14,8 +14,8 @@ function maxPrice(mobiles){
             max = mobile;
         }
     }
-    return max;
+    return max ;
 }
 let bestMobile = maxPrice(mobiles);
-document.write(' <br> Best Price Mobile : ', bestMobile, " check console for better known <br> ");
 console.log('Best Price Mobile : ', bestMobile, " <br> ");
+document.write(' <br> Best Price Mobile : ', bestMobile, " check console for better known <br> ");
