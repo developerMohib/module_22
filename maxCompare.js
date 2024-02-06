@@ -10,4 +10,4 @@ function maxFider(heights){
     return max;
 }
 let maxHeight = maxFider(heights);
-document.write( 'Max Height from Array : ', maxHeight);
+document.write( 'Max Height from Array : ', maxHeight, '<br>');
